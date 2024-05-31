@@ -4,7 +4,6 @@
 ---
 ### My Status :
 ![status](https://github-readme-stats.vercel.app/api?username=Yasharmohamadi&show_icons=true&theme=dark)
-<img src="https://github-readme-stats.vercel.app/api?username=Yasharmohamadi&show_icons=true&theme=dark"/>
 ---
 ### Commit Activiti :
 - [test-repo](https://github.com/Yasharmohamadi/test-repo) : 
