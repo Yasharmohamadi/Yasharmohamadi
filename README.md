@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h2>My Skill:</h2>
   
   ![html](https://img.shields.io/badge/HTML-grey?style=for-the-badge&logo=html5)
@@ -8,10 +8,8 @@
   ![github](https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github)
 </div>
 
+<div>
+  <h2>My Status:</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yasharmohamadi&show_icons=true&theme=dark" width="350px" />
+</div>
 
-
-
----
-### My Status :
-![status](https://github-readme-stats.vercel.app/api?username=Yasharmohamadi&show_icons=true&theme=dark)
----
