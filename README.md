@@ -1,17 +1,13 @@
-![First Name](https://img.shields.io/badge/First_Name-Yashar-yellow)
----
-![Last Name](https://img.shields.io/badge/Last_Name-Mohammadi-yellow)
+![html](https://img.shields.io/badge/HTML-grey?style=for-the-badge&logo=html5)
+![css](https://img.shields.io/badge/Css-grey?style=for-the-badge&logo=css3)
+![js](https://img.shields.io/badge/JS-grey?style=for-the-badge&logo=javascript)
+![git](https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git)
+![github](https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github)
+
+
+
+
 ---
 ### My Status :
 ![status](https://github-readme-stats.vercel.app/api?username=Yasharmohamadi&show_icons=true&theme=dark)
 ---
-### Commit Activiti :
-- [test-repo](https://github.com/Yasharmohamadi/test-repo) : 
-  - ![test-repo](https://img.shields.io/github/commit-activity/m/Yasharmohamadi/test-repo)
-- [test-site](https://github.com/Yasharmohamadi/test-site) : 
-  - ![test-site](https://img.shields.io/github/commit-activity/m/Yasharmohamadi/test-site)
-- [animated-login-form](https://github.com/Yasharmohamadi/animated-login-form) : 
-  - ![animated-login-form](https://img.shields.io/github/commit-activity/m/Yasharmohamadi/animated-login-form)
-- [README](https://github.com/Yasharmohamadi/README) : 
-  - ![README](https://img.shields.io/github/commit-activity/m/Yasharmohamadi/README)
-
