@@ -9,7 +9,7 @@
 </div>
 
 <div>
-  <h2>My Status:</h2>
+  <h2>My Stats:</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=Yasharmohamadi&show_icons=true&theme=dark" width="350px" />
 </div>
 
