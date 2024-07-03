@@ -11,4 +11,11 @@
   <img
     src="https://skillicons.dev/icons?i=vscode,github,git,firebase"
   />
+
+  <h2>My Stats:</h2>
+    <img
+    width="350"
+    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=yasharmohamadi&hide=HTML&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
+    alt="top langs"
+  />
 </div>
