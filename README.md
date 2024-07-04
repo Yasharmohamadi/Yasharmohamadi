@@ -11,8 +11,4 @@
   <img
     src="https://skillicons.dev/icons?i=vscode,github,git,firebase"
   />
-
-  <h2>My Stats:</h2>
-
-
 </div>
