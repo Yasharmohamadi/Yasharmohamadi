@@ -12,7 +12,9 @@
     src="https://skillicons.dev/icons?i=vscode,github,git,firebase"
   />
   <h2>My Socials:</h2>
+  <a href="https://www.instagram.com/yasharmohammaddi?igsh=MWpiMnVkOG11MzBjZg==">
   <img
     src="https://skillicons.dev/icons?i=instagram"
   />
+  </a>
 </div>
