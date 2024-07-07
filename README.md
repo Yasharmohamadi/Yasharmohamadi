@@ -17,4 +17,9 @@
     src="https://skillicons.dev/icons?i=instagram"
   />
   </a>
+    <a href="https://T.me/YasharMohamadi">
+  <img
+    src="https://skillicons.dev/icons?i=telegram"
+  />
+  </a>
 </div>
