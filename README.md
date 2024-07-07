@@ -12,14 +12,15 @@
     src="https://skillicons.dev/icons?i=vscode,github,git,firebase"
   />
   <h2>My Socials:</h2>
-  <a href="https://www.instagram.com/yasharmohammaddi?igsh=MWpiMnVkOG11MzBjZg==">
+<!--   <a href="https://www.instagram.com/yasharmohammaddi?igsh=MWpiMnVkOG11MzBjZg==">
   <img
     src="https://skillicons.dev/icons?i=instagram"
   />
-  </a>
-    <a href="https://T.me/YasharMohamadi">
-  <img
-    src="https://skillicons.dev/icons?i=telegram"
-  />
+  </a> -->
+
+  <a href="mailto:yashar22mo@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"
+    />
   </a>
 </div>
