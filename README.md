@@ -11,4 +11,8 @@
   <img
     src="https://skillicons.dev/icons?i=vscode,github,git,firebase"
   />
+  <h2>My Socials:</h2>
+  <img
+    src="https://skillicons.dev/icons?i=instagram"
+  />
 </div>
