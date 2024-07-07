@@ -17,12 +17,17 @@
     src="https://skillicons.dev/icons?i=instagram"
   />
   </a> -->
-  <a href="https://T.me/YasharMohamaddi">
+  <a href="[https://T.me/YasharMohamaddi](https://www.instagram.com/yasharmohammaddi?igsh=MWpiMnVkOG11MzBjZg==)">
     <img
-      src="https://img.shields.io/badge/telegram-333333?style=for-the-badge&logo=telegram&logoColor=blue"
+      src="https://img.shields.io/badge/telegram-333333?style=for-the-badge&logo=telegram"
     />
   </a>
 
+  <a href="https://T.me/YasharMohamaddi">
+    <img
+      src="https://img.shields.io/badge/instagram-333333?style=for-the-badge&logo=instagram"
+    />
+  </a>
   
   <a href="mailto:yashar22mo@gmail.com">
     <img
