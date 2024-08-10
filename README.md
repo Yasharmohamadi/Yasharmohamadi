@@ -19,7 +19,7 @@
   </a> -->
   <a href="https://T.me/YasharMohamaddi">
     <img
-      src="https://img.shields.io/badge/telegram-333333?style=for-the-badge&logo=telegram"
+      src="https://img.shields.io/badge/telegram-333333?style=for-the-badge&logo=telegram&logoColor=f0db4f"
     />
   </a>
 
