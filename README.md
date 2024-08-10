@@ -25,7 +25,7 @@
 
   <a href="https://www.instagram.com/yasharmohammaddi?igsh=MWpiMnVkOG11MzBjZg==">
     <img
-      src="https://img.shields.io/badge/instagram-333333?style=for-the-badge&logo=instagram"
+      src="https://img.shields.io/badge/instagram-333333?style=for-the-badge&logo=instagram&logoColor=f0db4f"
     />
   </a>
   
