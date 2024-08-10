@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=00BCD4&duration=3000&lines=Hi+There!+👋;+I'm+Yashar+Mohamadi!;"
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=f0db4f&duration=3000&lines=Hi+There!+👋;+I'm+Yashar+Mohamadi!;"
   />
 
   <h2>My Skills:</h2>
