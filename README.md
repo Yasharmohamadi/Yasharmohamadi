@@ -9,7 +9,7 @@
   />
   <br />
   <img
-    src="https://skillicons.dev/icons?i=vscode,github,git,firebase"
+    src="https://skillicons.dev/icons?i=vscode,git,github,firebase,mongo"
   />
   <h2>My Socials:</h2>
 <!--   <a href="https://www.instagram.com/yasharmohammaddi?igsh=MWpiMnVkOG11MzBjZg==">
