@@ -15,7 +15,7 @@
   />
   <br />
   <img
-    src="https://skillicons.dev/icons?i=javascript,ts,react,nextjs"
+    src="https://skillicons.dev/icons?i=javascript,ts,react,nextjs,redux"
   />
   <br />
   <img
