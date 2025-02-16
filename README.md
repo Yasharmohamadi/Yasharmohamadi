@@ -11,16 +11,13 @@
 <path d="M152.381 211.354L171.969 200.013C177.126 208.434 183.828 214.62 195.684 214.62C205.653 214.62 212.009 209.636 212.009 202.762C212.009 194.514 205.479 191.592 194.481 186.782L188.468 184.203C171.111 176.815 159.597 167.535 159.597 147.945C159.597 129.901 173.345 116.153 194.826 116.153C210.12 116.153 221.118 121.481 229.022 135.4L210.291 147.429C206.166 140.04 201.7 137.119 194.826 137.119C187.78 137.119 183.312 141.587 183.312 147.429C183.312 154.646 187.78 157.568 198.09 162.037L204.104 164.614C224.553 173.379 236.067 182.313 236.067 202.418C236.067 224.072 219.055 235.928 196.2 235.928C173.861 235.928 159.426 225.274 152.381 211.354" fill="#000"/>
 </svg>
   <img
-    src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,mui"
+    src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind"
   />
   <br />
   <img
-    src="https://skillicons.dev/icons?i=javascript,ts,react,nextjs,redux"
+    src="https://skillicons.dev/icons?i=javascript,ts,react,nextjs,redux,jquery"
   />
   <br />
-  <img
-    src="https://skillicons.dev/icons?i=vscode,git,github,firebase,mongo"
-  />
 <!--   <h2>My Socials:</h2> -->
   <hr />
 
