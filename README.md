@@ -31,13 +31,13 @@
       src="https://img.shields.io/badge/telegram-333333?style=for-the-badge&logo=telegram&logoColor=EEEEEE"
     />
   </a>
-
+<!-- 
   <a href="https://www.instagram.com/yasharmohammaddi?igsh=MWpiMnVkOG11MzBjZg==">
     <img
       src="https://img.shields.io/badge/instagram-333333?style=for-the-badge&logo=instagram&logoColor=EEEEEE"
     />
   </a>
-  
+  -->
   <a href="mailto:yashar22mo@gmail.com">
     <img
       src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=EEEEEE"
