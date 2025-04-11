@@ -15,7 +15,7 @@
   />
   <br />
   <img
-    src="https://skillicons.dev/icons?i=javascript,ts,react,nextjs,redux,jquery"
+    src="https://skillicons.dev/icons?i=javascript,ts,react,nextjs,redux,jquery,vue"
   />
   <br />
 <!--   <h2>My Socials:</h2> -->
